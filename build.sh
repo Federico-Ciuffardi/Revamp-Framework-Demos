@@ -1,0 +1,1 @@
+javac -classpath /home/federicociuffardi/git/Revamp-Framework-GUI/libraries/revamp-framework-0.6.3.jar -d /home/federicociuffardi/git/Revamp-Framework-Demos/bin /home/federicociuffardi/git/Revamp-Framework-Demos/src/*/*
